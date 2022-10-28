@@ -1,0 +1,8 @@
+storage.ide-shm
+storage.ide-wal
+obj
+.vs
+bin
+obj
+/GappingWorld/Properties
+api.txt
